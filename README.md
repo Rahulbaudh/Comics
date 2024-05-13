@@ -2,8 +2,6 @@
 
 # Comic Book Data Analysis
 
-![Comic Book Data Analysis]
-
 ## Overview
 
 This repository contains the code and data for a comprehensive data analysis project focused on exploring insights within the comic book universe, specifically Marvel and DC Comics. The analysis covers a wide range of topics, including character alignments, gender representation, identity complexities, top-tier character insights, eye and hair color patterns, temporal evolution trends, and franchise comparative analysis.
